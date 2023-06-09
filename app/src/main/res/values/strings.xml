@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Menu</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="the_easiest_way_to_order">The easiest way to order</string>
+    <string name="no_lines_no_waiting">No lines. No waiting.</string>
+    <string name="logout">Logout</string>
+    <string name="menu_app">Menu App</string>
+    <string name="internet_connection_lost">Internet connection lost</string>
+    <string name="please_turn_on_internet_connection">Please turn on internet connection</string>
+    <string name="venue_address_placeholder">%s, %s</string>
 </resources>

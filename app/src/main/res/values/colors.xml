@@ -6,5 +6,13 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="black_100">#2C2C31</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="orange">#F2613D</color>
+    <color name="transparent_black_6">#0F2C2C31</color>
+    <color name="transparent_black_80">#CC2C2C31</color>
+    <color name="transparent_black_60">#992C2C31</color>
+    <color name="transparent_black_20">#332C2C31</color>
+    <color name="closed_grey">#ABABAD</color>
+
 </resources>

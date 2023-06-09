@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Menu"
 include ':app'
+include ':data'
+include ':domain'
+include ':model'
+include ':network'

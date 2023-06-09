@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_venue"
+    app:startDestination="@id/fragment_venue_list">
+
+    <fragment
+        android:id="@+id/fragment_venue_list"
+        android:name="com.android.menu.screens.venue.list.VenueListFragment"
+        tools:layout="@layout/fragment_venue_list">
+
+        <action
+            android:id="@+id/action_fragment_venue_list_to_fragment_venue_details"
+            app:destination="@id/fragment_venue_details" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/fragment_venue_details"
+        android:name="com.android.menu.screens.venue.details.VenueDetailsFragment"
+        tools:layout="@layout/fragment_venue_details">
+
+    </fragment>
+
+</navigation>
